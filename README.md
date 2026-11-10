@@ -1,4 +1,4 @@
-# technical-brief
+# athenabio-technical-brief
 Ovarian Biology Data - Technical Brief 
 
 **Intro**
