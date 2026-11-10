@@ -50,6 +50,7 @@ Fund roadmap · 3 phases, 2 gates
 - Metadata standard adopted by funded labs and mapped to SWAN and UK Biobank standards
 
 **Levers**
+
 Five functioning levers. Labs keep their autonomy and stay where they are; AthenaBIO adds the coordination that no single lab can supply alone. Each lever comes with a commitment we can be held to before the first sample is collected.
 
 | Lever | What the fund does | What it produces | How we hold ourselves to it |
@@ -113,6 +114,7 @@ We will publish these numbers every year against targets set in advance, includi
 - Downstream capital: spinouts, licenses and private capital raised on fund-generated IP. 
 
 **After year 5**
+
 **Our goal is to leave a lasting open-science resource for female biology, starting with the ovary, that meets the AI-ready standard and improves both disease modeling and biomarker discovery.**
 - Data: transferred to a long-term open repository, with maintenance funded for at least 5 years and a standing data access committee for controlled-access data.
 - Standards: handed to a professional society or consortium to keep current
