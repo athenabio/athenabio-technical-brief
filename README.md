@@ -39,6 +39,7 @@ Deposited with open, FAIR-compliant data access, processed objects, and detailed
 With this first clear early Genesis deliverable, we will have a foundation to test the feasibility of the larger vision and to build iteratively. By year 2, we will have the largest single ovarian multimodal dataset available and a first version of a common standard for recording ovarian data.  By year 5, the goal is to deliver open ovarian data sets, annotated with menopausal status and reproductive history following a single standard, validated candidates, biomarkers, standardized endpoints and screenable model systems.
 
 <img width="628" height="294" alt="Screenshot 2026-11-10 at 7 26 44 AM" src="https://github.com/user-attachments/assets/efc62952-b957-4a9f-b807-3b0be1627188" />
+
 Fund roadmap · 3 phases, 2 gates
 
 **Year-5 deliverables:**
@@ -93,7 +94,7 @@ Project Manager
 **Accountability.** Every lab has annual milestones. Funding continues only when milestones are met. Donors get a portfolio report each quarter.
 **Governance.**  Governance will be established with strategic input from Orrick, Herrington & Sutcliffe LLP during 501(c)(3) formation, following best practices and standards. 
 
-**Measuring and sustaining impact **
+**Measuring and sustaining impact**
 AthenaBIO succeeds if other people use what it produces: researchers download and reuse the data, trials adopt the endpoints, and companies build on the biomarkers. Producing data is not enough. We track impact in three stages, taking into consideration that uptakes take time to appear and early signals should predict later ones. 
 | Stage | Timeframe | What it means | How we measure it |
 |---|---|---|---|
@@ -103,7 +104,7 @@ AthenaBIO succeeds if other people use what it produces: researchers download an
 
 We will publish these numbers every year against targets set in advance, including projects that missed their prior target selection. Where we can, we will report. Dollars spent, samples collected and papers published by funded labs are inputs, not results, and we will not count them as success.  
 
-**What we measure: **
+**What we measure:**
 - Data quality and coverage: datasets released, life stages and clinical outcomes they cover, share QC and time from collection to public release.
 - Standards adoption: labs and datasets using the Genesis metadata standard, external teams submitting to the benchmark.
 - Biomarker qualification: candidates at each regulatory stage and how many are qualified.
@@ -118,5 +119,5 @@ We will publish these numbers every year against targets set in advance, includi
 - Network: continues on government and industry funding, using fund data as the base for new grants.
 - AthenaBIO: sets up the structure for open-access and winds down the operations, sets up an endowment for the upkeep and management of the infrastructure, or continues the work only if a new thesis justifies it.
 
-**For more information and date room access : **
+**For more information and date room access :**
 - hello@athenabio
