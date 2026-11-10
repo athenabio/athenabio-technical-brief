@@ -1,7 +1,8 @@
 # technical-brief
 Ovarian Biology Data - Technical Brief 
 
-Intro
+**Intro**
+
 The AthenaBIO Ovarian Biology Data project is a 5-year, $30M philanthropic fund. It will produce the open reference data, standards and validated measures that are lacking in ovarian research. These foundations will then enable disease modeling and drug development for the era of AI.
 
 AthenaBIO has done a private call for submissions, selected and conducted due diligence on 15 leading ovarian-biology labs across the US and the world. It will maintain a shared knowledge structure, keep the labs on shared protocols and metadata standards, run common reference samples to allow inter-comparability across labs and create an open science infrastructure while also supporting focused research in the field. It will also support research and data collection efforts halted by NIH cuts. Ethical, technical, and administrative aspects of this effort make it a difficult undertaking, but a worthwhile one to advance research not only in female but human health.  
