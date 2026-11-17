@@ -57,7 +57,7 @@ Five functioning levers. Labs keep their autonomy and stay where they are; Athen
 |---|---|---|---|
 | Regranting | Funds about 15 ovarian-biology labs for 1–4 years, selected through our diligence pipeline | Omics data, biological samples, targeted moonshot projects | Every funded project states its question, its primary endpoint and its power calculation before money is released |
 | Shared standards | Sets common collection, annotation and QC protocols across all labs | Data that can be pooled and compared across sites | One standard applies to every sample, in every lab (from day one) |
-| Pooled resources | Negotiates shared access to CROs, biobanks and model systems | Lower cost and faster timelines per lab | Projects that can’t reach power alone, can be combined across labs under the shared protocol (harmonization) |
+| Pooled resources | Negotiates shared access to CROs, biobanks and model systems. Genesis Project. | Lower cost and faster timelines per lab | Projects that can’t reach power alone, can be combined across labs under the shared protocol (harmonization) |
 | Open data release | Hosts and releases harmonized datasets under one open license | AI-ready reference data for any researcher | Data is released on a fixed schedule after QC, and is not held until a paper/report comes out |
 | Translation bridge | Flags assets and IP for downstream companies, while keeping data and tools open | Spinouts and licenses that draw private capital | Data and tools stay open, and only discrete inventions are licensed |
 
