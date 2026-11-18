@@ -38,7 +38,7 @@ Deposited with open, FAIR-compliant data access, processed objects, and detailed
 
 With this first clear early Genesis deliverable, we will have a foundation to test the feasibility of the larger vision and to build iteratively. By year 2, we will have the largest single ovarian multimodal dataset available and a first version of a common standard for recording ovarian data.  By year 5, the goal is to deliver open ovarian data sets, annotated with menopausal status and reproductive history following a single standard, validated candidates, biomarkers, standardized endpoints and screenable model systems.
 
-<img width="628" height="294" alt="Screenshot 2026-11-10 at 7 26 44 AM" src="https://github.com/user-attachments/assets/efc62952-b957-4a9f-b807-3b0be1627188" />
+<img width="1044" height="554" alt="Three phases, three go/no-go gates by year" src="https://github.com/user-attachments/assets/0d2ac28b-6574-45fe-a7bf-7bae5f8a6485" />
 
 Fund roadmap · 3 phases, 2 gates
 
